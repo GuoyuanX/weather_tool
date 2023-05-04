@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>3d_180/0.png</file>
+    <file>3d_180/1.png</file>
+    <file>3d_180/2.png</file>
+    <file>3d_180/3.png</file>
+    <file>3d_180/4.png</file>
+    <file>3d_180/5.png</file>
+    <file>3d_180/6.png</file>
+    <file>3d_180/7.png</file>
+    <file>3d_180/8.png</file>
+    <file>3d_180/9.png</file>
+    <file>3d_180/10.png</file>
+    <file>3d_180/11.png</file>
+    <file>3d_180/12.png</file>
+    <file>3d_180/13.png</file>
+    <file>3d_180/14.png</file>
+    <file>3d_180/15.png</file>
+    <file>3d_180/16.png</file>
+    <file>3d_180/17.png</file>
+    <file>3d_180/18.png</file>
+    <file>3d_180/19.png</file>
+    <file>3d_180/20.png</file>
+    <file>3d_180/21.png</file>
+    <file>3d_180/22.png</file>
+    <file>3d_180/23.png</file>
+    <file>3d_180/24.png</file>
+    <file>3d_180/25.png</file>
+    <file>3d_180/26.png</file>
+    <file>3d_180/27.png</file>
+    <file>3d_180/28.png</file>
+    <file>3d_180/29.png</file>
+    <file>3d_180/30.png</file>
+    <file>3d_180/31.png</file>
+    <file>3d_180/32.png</file>
+    <file>3d_180/33.png</file>
+    <file>3d_180/34.png</file>
+    <file>3d_180/35.png</file>
+    <file>3d_180/36.png</file>
+    <file>3d_180/37.png</file>
+    <file>3d_180/38.png</file>
+    <file>3d_180/99.png</file>
+  </qresource>
+  <qresource prefix="bar_ico">
+    <file>bar_ico/site.png</file>
+    <file>bar_ico/about.png</file>
+    <file>bar_ico/exit.png</file>
+    <file>bar_ico/get_weath.png</file>
+    <file>bar_ico/set_key.png</file>
+  </qresource>
+</RCC>
